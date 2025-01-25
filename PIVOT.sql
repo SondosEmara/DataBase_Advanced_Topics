@@ -1,0 +1,3 @@
+--PIVOT
+--Transform Rows To Columns
+---https://www.geeksforgeeks.org/pivot-and-unpivot-in-sql/
